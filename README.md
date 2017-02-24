@@ -1,6 +1,4 @@
 # hello-world-java
 Hello World Java and Git
 
-This project is a playground for Java and Git. 
-
-line 1049
+This repo is a playground for Hello World Java project and Git.
